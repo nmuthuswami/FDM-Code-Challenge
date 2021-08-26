@@ -1,0 +1,6 @@
+C:\Nirmal\My Learnings\FDM_Challenge\MarsRover\bin\Debug\MarsRover.dll
+C:\Nirmal\My Learnings\FDM_Challenge\MarsRover\bin\Debug\MarsRover.pdb
+C:\Nirmal\My Learnings\FDM_Challenge\MarsRover\obj\Debug\MarsRover.BusinessLogic.csprojAssemblyReference.cache
+C:\Nirmal\My Learnings\FDM_Challenge\MarsRover\obj\Debug\MarsRover.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Nirmal\My Learnings\FDM_Challenge\MarsRover\obj\Debug\MarsRover.dll
+C:\Nirmal\My Learnings\FDM_Challenge\MarsRover\obj\Debug\MarsRover.pdb
